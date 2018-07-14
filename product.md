@@ -43,3 +43,4 @@
 - [Frequency of Shipping](https://alphahq.com/blog/frequently-product-managers-run-experiments-ship-new-features/)
 - [Innovation Accounting](https://medium.com/the-lean-enterprise/innovation-accounting-for-corporations-abbf1ab52063) & [Measuring Innovation](https://svpg.com/measuring-innovation/)
 - Rate of [Customer Interviews](https://brainmates.com.au/brainrants/how-to-customer-interview/)
+- [Developing Strong Product Managers](https://svpg.com/developing-strong-product-managers/)
