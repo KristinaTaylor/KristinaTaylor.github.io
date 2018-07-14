@@ -38,3 +38,8 @@
 ## Prioritization
 - [Prioritization Techniques](https://foldingburritos.com/product-prioritization-techniques/)
 - [Features & Improvements](https://medium.com/@freshtilledsoil/how-to-prioritize-product-features-and-improvements-8aea72c8bf27)
+
+## Defining Success for a Product Manager
+- [Frequency of Shipping](https://alphahq.com/blog/frequently-product-managers-run-experiments-ship-new-features/)
+- [Innovation Accounting](https://medium.com/the-lean-enterprise/innovation-accounting-for-corporations-abbf1ab52063) & [Measuring Innovation](https://svpg.com/measuring-innovation/)
+- Rate of [Customer Interviews](https://brainmates.com.au/brainrants/how-to-customer-interview/)
