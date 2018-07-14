@@ -1,5 +1,3 @@
-# General Resources
-
 ## Books
 
 - [The Lean Startup](https://www.amazon.ca/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
@@ -16,8 +14,7 @@
 - [This is Product Management](https://www.thisisproductmanagement.com/)
 - [The Product Podcast](https://itunes.apple.com/ca/podcast/the-product-podcast/id1219400787?mt=2)
 - [FRICTION by Bob Sutton](https://ecorner.stanford.edu/series/friction/)
-
-# Specific Skills
+- [Agile for Humans](https://ryanripley.com/agile-for-humans/)
 
 ## Documenting Requirements
 
