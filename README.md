@@ -5,4 +5,4 @@
 - [This Page](https://kristinataylor.github.io/)
 
 ## Stuff You'll Find Here
-- (Product Development Resources I've Found Useful)[https://kristinataylor.github.io/product]
+- [Product Development Resources I've Found Useful](https://kristinataylor.github.io/product)
