@@ -2,6 +2,11 @@
 
 - [The Lean Startup](https://www.amazon.ca/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 - [Product Leadership](https://www.amazon.ca/Product-Leadership-Managers-Products-Successful/dp/1491960604)
+- [Inspired: How To Create Products Customers Love](https://www.amazon.ca/Inspired-Create-Products-Customers-Love/dp/0981690408)
+- [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/)
+- [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others)
+- [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products)
+- [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded)
 
 ## Blogs
 
